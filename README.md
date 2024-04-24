@@ -38,4 +38,4 @@
 - Filas;
 - Tuplas e sequências;
 - Conjuntos;
-- Dicionários;
+- Dicionários.
