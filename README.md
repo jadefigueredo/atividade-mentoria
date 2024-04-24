@@ -26,7 +26,7 @@
 
 - `if`: Seleciona exatamente um conjunto avaliando as expressões até que encontre uma verdadeira e execute, se tudo for falso e o else estiver presente, o else será executado
 - `elif`: estrutura intermediária entre if e else
-- for: itera sobre os itens de qualquer sequência
+- `for`: itera sobre os itens de qualquer sequência
 - `range`: itera sobre sequências numéricas 
 - `break`: para imediatamente o laço de repetição
 - `def`: uma função é um bloco de código que realiza uma tarefa específica, seguida pelo nome da função em parênteses
